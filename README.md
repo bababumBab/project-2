@@ -11,7 +11,7 @@ The second project with General Assembly was a 48 hour 'hackathon' to build a mu
 
 Choosing this theme is a reflection of general interests. We need to be informed, meaning we need to see the latest news that dictate how prices of different crypto currency coins are affected. 
 
-You can view this project [here]([https://placeholder]/)
+You can view this project [here](https://bababumbab.github.io/project-2/)
 
 
 ## Brief
